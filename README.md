@@ -3,7 +3,7 @@
 
 oh yeah, the famous tic tac toe game
 
-## => [live demo](https://issam-hub.github.io/tic_tac_toee/)
+## => [live demo](https://issam-hub.github.io/tic-tac-toe/)
 
 ## made by:
 * HTML
